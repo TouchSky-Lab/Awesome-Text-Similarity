@@ -1,21 +1,25 @@
-# Awesome-Text-Similarity
-Document Similarity, Sentence Similarity, Word Similarity
-
 
 # Word Similarity
 
 
 
 # Sentence Similarity
-
+- Skip-thoughts. [[paper](https://arxiv.org/pdf/1506.06726.pdf)]
+- Quick-Thoughts.
+- Universal Sentence Encoder.
+- InferSent 
+- ERCNN
+- DeCLUTR
 
 
 
 # Document Similarity
+- Doc2Vec 
+- Fuzzy Bag-of-Words Model for Document Representation
 
 
 
-
+# Similarity / Distance Measures
 
 
 
