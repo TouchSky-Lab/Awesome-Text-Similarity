@@ -31,6 +31,21 @@
 - Euclidean Distance
 - Jaccard Similarity
 
+# Methods studied in article
+- Jaccard Similarity
+- Different embeddings+ K-means
+- Different embeddings+ Cosine Similarity
+- Different embeddings+ Euclidean Distance
+- Word2Vec + Smooth Inverse Frequency + Cosine Similarity
+- Different embeddings+LSI + Cosine Similarity
+- Different embeddings+ LDA + Jensen-Shannon distance
+- Different embeddings+ Word Mover Distance
+- Different embeddings+ Variational Auto Encoder (VAE)
+- Different embeddings+ Universal sentence encoder
+- Different embeddings+ Siamese Manhattan LSTM
+- Knowledge-based Measures
+
+
 # References
 - https://github.com/malteos/awesome-document-similarity
 - https://github.com/adsieg/text_similarity
