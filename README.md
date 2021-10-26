@@ -17,11 +17,11 @@
 
 # Sentence-level Similarity
 - Skip-thoughts. [[paper](https://arxiv.org/pdf/1506.06726.pdf)]
-- Quick-Thoughts.
-- Universal Sentence Encoder.
-- InferSent 
-- ERCNN
-- DeCLUTR
+- Quick-Thoughts. [[paper](https://arxiv.org/pdf/1803.02893.pdf)]
+- Universal Sentence Encoder. [[paper](https://arxiv.org/abs/1803.11175)]
+- InferSent [[paper](https://arxiv.org/abs/1705.02364)]
+- ERCNN [[paper](https://link.springer.com/chapter/10.1007/978-3-030-32381-3_10)]
+- DeCLUTR [[paper](https://arxiv.org/abs/2006.03659)]
 
 # Document-level Similarity
 - Doc2Vec 
